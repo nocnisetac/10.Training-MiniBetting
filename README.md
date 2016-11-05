@@ -1,4 +1,2 @@
-# Training-10_MiniBetting
-Simple back-end part of an web application. 
-It is a Spring project, realised within Eclipse framework, using Maven project management tool. 
-It uses MySql database (and server) and JdbcTemlate klass for implementation of DAO classes.
+### Training-10_MiniBetting
+Redukovan BettingWindow projekat. Demonstracija konfigurisanja Springa u XML-u, implementiranja DAO sloja pomoću JdbcTemplatea. Jednostavan interfejs preko komandne linije.
